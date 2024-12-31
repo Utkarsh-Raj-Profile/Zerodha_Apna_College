@@ -1,40 +1,48 @@
-import React from "react";
-import { Link } from "react-router-dom";
+import React from 'react';
 
 function Team() {
-  return (
-    <div className="container">
-      <div className="row p-5 mt-5">
-        <h1 className="text-center text-muted">People</h1>
-      </div>
-      <div className="row p-5 text-muted" style={{ fontSize: "1.2em" }}>
-        <div className="col-6 p-5 text-center">
-          <img src="media/images/nithinKamath.jpg" className="rounded-circle" style={{ width: "50%" }} />
-          <h4 className="mt-5">Nithin Kamath</h4>
-          <h6>Founder, CEO</h6>
+    return (
+        <div className='container'>
+            <div className='row p-3 mt-5 border-top'>
+                <h1 className='text-center'>People</h1>
+            </div>
+
+            <div className='row p-3 text-muted' style={{ lineHeight: "1.8", fontSize: "1.2em" }}>
+                <div className='col-6 p-5 text-center'>
+                    <img src='Media/Images/MySelfe.jpeg' style={{ borderRadius: "100%", width: "75%" }} />
+                    <h4 className='mt-5'>Utkarsh Raj</h4>
+                    <h6>B. Tech CSE Student</h6>
+                </div>
+                <div className='col-6 p-3'>
+                    <p>This is Utkarsh Raj, B. Tech final year student.</p>
+                    <p>This project is based on the case study done on various other trading platforms.It is just for educational purpose.</p>
+                    <p>It's main focus on Managing and displaying real-time stock data efficiently.
+                        Providing secure user authentication and data storage.
+                        Ensuring scalability during high user traffic.
+                        Creating an interactive and responsive UI/UX.</p>
+                    <p>This project successfully implements a scalable trading website, inspired by platforms like Zerodha and Groww. Using ReactJS, MongoDB Atlas, and AWS, it delivers an efficient, secure, and user-friendly platform for retail traders.</p>
+                </div>
+            </div>
+            <div className='row text-center'>
+                <h1 className='text-center mb-5'>Team</h1>
+                <div className='col'>
+                    <img src='Media/Images/suman.jpg' style={{borderRadius:"100%", width:"70%"}}/>
+                    <h4 className='mt-5'>Suryakant Suman</h4>
+                    <h6>B. Tech CSE Student</h6>
+                </div>
+                <div className='col'>
+                <img src='Media/Images/Dhrendra.jpg' style={{borderRadius:"100%", width:"70%"}}/>
+                <h4 className='mt-5'>Dheerendra Pratap Singh Tomar</h4>
+                <h6>B. Tech CSE Student</h6>
+                </div>
+                <div className='col'>
+                <img src='Media/Images/sambhav.jpg' style={{borderRadius:"100%", width:"70%"}}/>
+                <h4 className='mt-5'>Sambhav Karn</h4>
+                <h6>B. Tech CSE Student</h6>
+                </div>
+            </div>
         </div>
-        <div className="col-6 p-5" style={{ fontSize: "1em" }}>
-          <p>Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.</p>
-          <p>He is a member of the SEBI Secondary Market Advisory Committee (SMAC) and the Market Data Advisory Committee (MDAC).</p>
-          <p>Playing basketball is his zen.</p>
-          <p>
-            Connect on{" "}
-            <Link to="/" style={{ textDecoration: "none", color: "#387ed1" }}>
-              Homepage
-            </Link>{" "}
-            /{" "}
-            <a href="https://tradingqna.com/u/nithin/summary" style={{ textDecoration: "none", color: "#387ed1" }}>
-              TradingQnA
-            </a>{" "}
-            /{" "}
-            <a href="https://twitter.com/Nithin0dha" style={{ textDecoration: "none", color: "#387ed1" }}>
-              Twitter
-            </a>
-          </p>
-        </div>
-      </div>
-    </div>
-  );
+    );
 }
 
 export default Team;

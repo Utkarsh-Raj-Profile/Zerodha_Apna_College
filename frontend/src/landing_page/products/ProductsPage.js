@@ -17,7 +17,7 @@ function ProductsPage() {
       <p className="text-center fs-4">
         Want to know more about our technology stack? Check out the{" "}
         <a href="https://zerodha.tech/" style={{ textDecoration: "none", color: "#387ed1" }}>
-          Zerodha.tech
+          MERN.tech
         </a>{" "}
         blog.
       </p>
