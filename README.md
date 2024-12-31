@@ -12,9 +12,7 @@ Welcome to **Zerodha Clone**! This repository includes a clone of the popular st
 4. [Getting Started](#-getting-started)
 5. [Setup](#-setup)
 6. [Features](#-features)
-7. [Demo & Screenshots](#-demo--screenshots)
 8. [Acknowledgments](#-acknowledgments)
-9. [License](#-license)
 
 ---
 
@@ -63,7 +61,7 @@ Follow these steps to set up the project in your local environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jenil-Desai/zerodha-clone.git
+   git clone https://github.com/Utkarsh-Raj-Profile/Zerodha_Clone.git
    ```
 2. Install dependencies for Backend, Frontend, and Dashboard.
 
@@ -113,36 +111,8 @@ Explore the unique features available in this application:
 - **Dashboard**
 - **Frontend Clone**
 
----
-
-## 🔗 Demo & Screenshots
-
-- [Demo](https://zerodha-clone-frontend.vercel.app)
-- UserName : Demo
-- Password : Demo
-
-| Mock Up                            | Home Page                             | Dashboard                              | About Page                         |
-| ---------------------------------- | ------------------------------------- | -------------------------------------- | ---------------------------------- |
-| ![Mockup](./Screenshot/mockup.png) | ![Mockup](./Screenshot/Homepage.jpeg) | ![Mockup](./Screenshot/Dashboard.jpeg) | ![Mockup](./Screenshot/About.jpeg) |
-
-| Products Page                        | Pricing Page                         | Support Page                         |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Mockup](./Screenshot/Product.jpeg) | ![Mockup](./Screenshot/Pricing.jpeg) | ![Mockup](./Screenshot/Support.jpeg) |
-
----
-
 ## 🙏 Acknowledgments
 
 We’d like to thank the following contributors and resources:
 
-- **[Apna College's Delta 3.0 Course](https://www.apnacollege.in/)** - Course resource.
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
-
----
-
-### Enjoy exploring and contributing to Zerodha Clone!
+- **[Apna College's Sigma 1.0 Course](https://www.apnacollege.in/)** - Course resource.
