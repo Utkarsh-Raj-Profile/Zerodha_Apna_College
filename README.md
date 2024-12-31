@@ -116,3 +116,4 @@ Explore the unique features available in this application:
 We’d like to thank the following contributors and resources:
 
 - **[Apna College's Sigma 1.0 Course](https://www.apnacollege.in/)** - Course resource.
+- *Jenil Desai GitHub Reprosetry ("https://github.com/Jenil-Desai/Zerodha-Clone.git").
