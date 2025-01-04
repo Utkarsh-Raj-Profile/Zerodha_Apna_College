@@ -111,6 +111,8 @@ Explore the unique features available in this application:
 - **Dashboard**
 - **Frontend Clone**
 
+--
+
 ## 🙏 Acknowledgments
 
 We’d like to thank the following contributors and resources:
