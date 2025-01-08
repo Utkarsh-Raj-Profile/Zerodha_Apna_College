@@ -113,6 +113,12 @@ Explore the unique features available in this application:
 
 --
 
+## Demo 
+
+Email : Demo@gmail.com
+Password : Demo
+https://zerodha-apna-college.onrender.com
+
 ## 🙏 Acknowledgments
 
 We’d like to thank the following contributors and resources:
