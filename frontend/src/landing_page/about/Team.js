@@ -23,23 +23,6 @@ function Team() {
                     <p>This project successfully implements a scalable trading website, inspired by platforms like Zerodha and Groww. Using ReactJS, MongoDB Atlas, and AWS, it delivers an efficient, secure, and user-friendly platform for retail traders.</p>
                 </div>
             </div>
-            <div className='row text-center'>
-                <h1 className='text-center mb-5'>Team</h1>
-                <div className='col'>
-                    <img src='Media/Images/suman.jpg' style={{borderRadius:"100%", width:"70%"}}/>
-                    <h4 className='mt-5'>Suryakant Suman</h4>
-                    <h6>B. Tech CSE Student</h6>
-                </div>
-                <div className='col'>
-                <img src='Media/Images/Dhrendra.jpg' style={{borderRadius:"100%", width:"70%"}}/>
-                <h4 className='mt-5'>Dheerendra Pratap Singh Tomar</h4>
-                <h6>B. Tech CSE Student</h6>
-                </div>
-                <div className='col'>
-                <img src='Media/Images/sambhav.jpg' style={{borderRadius:"100%", width:"70%"}}/>
-                <h4 className='mt-5'>Sambhav Karn</h4>
-                <h6>B. Tech CSE Student</h6>
-                </div>
             </div>
         </div>
     );
