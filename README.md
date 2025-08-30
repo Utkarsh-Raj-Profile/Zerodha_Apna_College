@@ -117,7 +117,6 @@ Explore the unique features available in this application:
 
 Email : Demo@gmail.com
 Password : Demo
-https://zerodha-apna-college.onrender.com
 
 ## 🙏 Acknowledgments
 
