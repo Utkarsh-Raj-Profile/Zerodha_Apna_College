@@ -117,7 +117,7 @@ Explore the unique features available in this application:
 
 Email : Demo@gmail.com
 Password : Demo
-
+zerodha-clone-frontend.vercel.app
 ## 🙏 Acknowledgments
 
 We’d like to thank the following contributors and resources:
